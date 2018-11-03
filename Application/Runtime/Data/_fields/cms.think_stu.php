@@ -1,0 +1,1 @@
+a:9:{i:0;s:2:"id";i:1;s:4:"name";i:2;s:3:"sex";i:3;s:3:"age";i:4;s:5:"class";i:5;s:5:"grade";i:6;s:5:"score";s:3:"_pk";s:2:"id";s:5:"_type";a:7:{s:2:"id";s:7:"int(10)";s:4:"name";s:11:"varchar(50)";s:3:"sex";s:11:"varchar(50)";s:3:"age";s:7:"int(50)";s:5:"class";s:7:"int(50)";s:5:"grade";s:7:"int(10)";s:5:"score";s:7:"int(10)";}}

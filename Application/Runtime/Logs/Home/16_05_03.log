@@ -1,0 +1,147 @@
+[ 2016-05-03T20:35:44+08:00 ] 127.0.0.1 /cms2/index.php/
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-03T21:03:39+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index.html
+ERR: 非法操作:index
+
+[ 2016-05-03T21:04:07+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index.html
+ERR: 非法操作:index
+
+[ 2016-05-03T21:04:40+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index.html
+ERR: 非法操作:index
+
+[ 2016-05-03T21:04:47+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index.html
+ERR: 非法操作:index
+
+[ 2016-05-03T21:05:01+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index.html
+ERR: 非法操作:index
+
+[ 2016-05-03T21:17:26+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index.html
+ERR: 非法操作:index
+
+[ 2016-05-03T21:17:52+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index.html
+ERR: 非法操作:index
+
+[ 2016-05-03T21:20:54+08:00 ] 127.0.0.1 /cms2/index.php/home/user/showlogin.html
+ERR: 模板不存在:./Application/Home/View/User/index.html
+
+[ 2016-05-03T21:24:17+08:00 ] 127.0.0.1 /cms2/index.php/home/user
+ERR: 非法操作:index
+
+[ 2016-05-03T21:32:57+08:00 ] 127.0.0.1 /cms2/index.php/home/user
+ERR: 非法操作:index
+
+[ 2016-05-03T21:33:43+08:00 ] 127.0.0.1 /cms2/index.php/home/user
+ERR: 非法操作:index
+
+[ 2016-05-03T21:35:51+08:00 ] 127.0.0.1 /cms2/index.php/home/user
+ERR: 非法操作:index
+
+[ 2016-05-03T21:35:58+08:00 ] 127.0.0.1 /cms2/index.php/home/user
+ERR: 非法操作:index
+
+[ 2016-05-03T21:36:42+08:00 ] 127.0.0.1 /cms2/index.php/home/user
+ERR: 非法操作:index
+
+[ 2016-05-03T21:37:26+08:00 ] 127.0.0.1 /cms2/index.php/home/user
+ERR: 非法操作:index
+
+[ 2016-05-03T21:37:34+08:00 ] 127.0.0.1 /cms2/index.php/home/user/login
+ERR: 1054:Champ '谢亚梅' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `think_user` WHERE ( username=谢亚梅&&password=123 ) LIMIT 1  
+ERR: 1054:Champ '谢亚梅' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `think_user` WHERE ( username=谢亚梅&&password=123 ) LIMIT 1  
+
+[ 2016-05-03T22:03:19+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index
+ERR: 非法操作:index
+
+[ 2016-05-03T22:40:04+08:00 ] 127.0.0.1 /cms2/index.php/home/user%E3%80%81index
+ERR: 无法加载控制器:User、index
+
+[ 2016-05-03T22:40:10+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index
+ERR: 非法操作:index
+
+[ 2016-05-03T22:40:15+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index/index
+ERR: 非法操作:index
+
+[ 2016-05-03T22:40:21+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index/index
+ERR: 非法操作:index
+
+[ 2016-05-03T22:40:23+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index
+ERR: 非法操作:index
+
+[ 2016-05-03T22:40:24+08:00 ] 127.0.0.1 /cms2/index.php/home/user%E3%80%81index
+ERR: 无法加载控制器:User、index
+
+[ 2016-05-03T23:18:43+08:00 ] 127.0.0.1 /cms2/index.php/home/user/showpPwdUpdate
+ERR: 模板不存在:./Application/Home/View/User/showpPwdUpdate.html
+
+[ 2016-05-03T23:18:51+08:00 ] 127.0.0.1 /cms2/index.php/home/user/showpPwdUpdate
+ERR: 模板不存在:./Application/Home/View/User/showpPwdUpdate.html
+
+[ 2016-05-03T23:19:36+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index
+ERR: 非法操作:index
+
+[ 2016-05-03T23:19:40+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index/index
+ERR: 非法操作:index
+
+[ 2016-05-03T23:45:40+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index
+ERR: 非法操作:index
+
+[ 2016-05-03T23:45:45+08:00 ] 127.0.0.1 /cms2/index.php/home/user/index/index
+ERR: 非法操作:index
+
+[ 2016-05-03T23:45:51+08:00 ] 127.0.0.1 /cms2/index.php/home/ndex/index
+ERR: 无法加载控制器:Ndex
+
+[ 2016-05-03T23:46:39+08:00 ] 127.0.0.1 /cms2/index.php/home/user/showpwdupdate.html
+ERR: 非法操作:showpwdupdate
+
+[ 2016-05-03T23:51:18+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
+[ 2016-05-03T23:52:04+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
+[ 2016-05-03T23:52:13+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
+[ 2016-05-03T23:52:45+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
+[ 2016-05-03T23:53:50+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
+[ 2016-05-03T23:54:56+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
+[ 2016-05-03T23:55:27+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
+[ 2016-05-03T23:56:20+08:00 ] 127.0.0.1 /cms2/index.php/home/user/PwdUpdate
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( username='测试' )' à la ligne 1
+ [ SQL语句 ] : UPDATE `think_user` SET  WHERE ( username='测试' )
+
